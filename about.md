@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zostań właścicielem KryptowalutyOnline.pl
-permalink: /About/
+permalink: /about/
 ---
 
 KryptowalutyOnline.pl - ta domena może być twoja!
