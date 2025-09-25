@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Kup tę domenę!
-permalink: /about/
+title: Zostań właścicielem KryptowalutyOnline.pl
+permalink: /Kup domenę!/
 ---
 
-KryptowalutyOnline.pl - ta domena może być twoja :)
+KryptowalutyOnline.pl - ta domena może być twoja!
 
 ### Dlaczego warto?
 
