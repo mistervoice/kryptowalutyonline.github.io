@@ -21,4 +21,4 @@ Nie czekaj – domeny w branży krypto znikają szybko!
 
 ### Zajrzyj tutaj:
 
-https://www.aftermarket.pl/aukcja/2661712/
+(https://www.aftermarket.pl/aukcja/2661712/)
