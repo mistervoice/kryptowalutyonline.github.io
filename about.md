@@ -1,15 +1,24 @@
 ---
 layout: page
-title: About
+title: Kup tę domenę!
 permalink: /about/
 ---
 
-Some information about you!
+KryptowalutyOnline.pl - ta domena może być twoja :)
 
-### More Information
+### Dlaczego warto?
 
-A place to include any other types of information that you'd like to include about yourself.
+Wejdź w świat kryptowalut z gotową, branżową nazwą online!
 
-### Contact me
+Domena idealna dla bloga, portalu informacyjnego, porównywarki giełd, kursów czy platformy edukacyjnej.
+Mocne słowo kluczowe: "kryptowaluty".
+Dodatek "online" podkreśla dostępność i nowoczesność.
+Rozszerzenie .pl – doskonałe dla rynku polskiego.
+Gotowy landing page.
+Gotowa do budowy marki lub SEO-projektu.
 
-[email@domain.com](mailto:email@domain.com)
+Nie czekaj – domeny w branży krypto znikają szybko!
+
+### Zajrzyj tutaj:
+
+https://www.aftermarket.pl/aukcja/2661712/
